@@ -1,5 +1,5 @@
 # EXP NO: 2
-# DATE:
+# DATE: 14.05.2025
 # Fitting Poisson  distribution
 # Aim : 
 
